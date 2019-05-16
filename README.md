@@ -1,2 +1,2 @@
 # Uefi-Ext2-Reader
-This is a project for System Software subject for my study in Gdansk University of Technology. UEFI supports only Windows FAT file system. My job was to implement protocol that allows to read from Linux Ext2 partition in UEFI. It's uses VisualUEFI (https://github.com/ionescu007/VisualUefi.git) for compaling process. My own code is in samples/UefiApplication subfolder. The rest is from VisualUEFI.
+This is a project for System Software subject for my study in Gdansk University of Technology. UEFI supports only Windows FAT file system. I implemented a protocol that allows to read files from Linux Ext2 partition in UEFI. I used VisualUEFI (https://github.com/ionescu007/VisualUefi.git) for compiling process.
